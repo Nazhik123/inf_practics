@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java_practika_1/java_practika_1.iml" filepath="$PROJECT_DIR$/java_practika_1/java_practika_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practica2/practica2.iml" filepath="$PROJECT_DIR$/practica2/practica2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practica3/practica3.iml" filepath="$PROJECT_DIR$/practica3/practica3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practica4/practica4.iml" filepath="$PROJECT_DIR$/practica4/practica4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/practics.iml" filepath="$PROJECT_DIR$/.idea/practics.iml" />
+    </modules>
+  </component>
+</project>
